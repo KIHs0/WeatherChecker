@@ -10,10 +10,12 @@ A simple and fast weather application that fetches real-time weather data using 
 
 ## 🛠 Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** OpenWeatherMap / WeatherAPI / Any other API you are using  
+- **API:** OpenWeatherMap / WeatherAPI
 - **Backend (if applicable):** Node.js, Express.js  
 
-## 📦 Installation & Usage  
+🌦️ Weather Results
+
+![scrennshot](image.png)
 
 ### 1️⃣ Clone the Repository  
 ```sh
