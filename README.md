@@ -19,5 +19,5 @@ A simple and fast weather application that fetches real-time weather data using 
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/weather-api-check.git
+git clone https://github.com/KIHs0/weather-api-check.git
 cd weather-api-check
